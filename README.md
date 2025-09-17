@@ -59,8 +59,8 @@ Unpack both into the directory, the folder structure should follow:
 
 This repo contributes **3 files** on top of UniGoal:  
 
-- **Module 1** – Temporal Graph Memory (topology-aware state propagation).  
-- **Module 2** – Loop Detection Unit (algebraic-topology inspired detection).  
+- **Module 1** - Temporal Reasoning Memory Module (TeRM).
+- **Module 2** - Topological Signatures for Loop Closure (TSLC).  
 - **Agent Wrapper** – T²-Nav Agent, integrating the above with UniGoal’s navigation policy.
 
 ## ▶️ Running Experiments
