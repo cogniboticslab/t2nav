@@ -55,6 +55,14 @@ Unpack both into the directory, the folder structure should follow:
                   └── 00899-58NLZxWBSpk/
   ```
 
+## 🧩 Code Structure  
+
+This repo contributes **3 files** on top of UniGoal:  
+
+- **Module 1** – Temporal Graph Memory (topology-aware state propagation).  
+- **Module 2** – Loop Detection Unit (algebraic-topology inspired detection).  
+- **Agent Wrapper** – T²-Nav Agent, integrating the above with UniGoal’s navigation policy.
+
 ▶️ Running Experiments
 
 After preparing data and replacing files, you can run evaluation as:
@@ -65,7 +73,7 @@ python main.py --goal_type ins-image --config t2nav.yaml
 📜 Citation
 
 If you find this work useful, please consider citing:
-```bash
+```bibtex
 @inproceedings{t2nav_icra2026,
   title     = {T2-Nav: Algebraic-TopologyAware Temporal Graph Memory and Loop Detection for Zero-Shot Visual Navigation},
   author    = {},
