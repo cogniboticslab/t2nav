@@ -24,6 +24,14 @@ cd UniGoal
 ```
 
 📂 Dataset Preparation
+Download links
+
+Scene dataset (HM3D v0.2): [Link](https://github.com/bagh2178/UniGoal](https://api.matterport.com/resources/habitat/hm3d-val-habitat-v0.2.tar).
+
+Instance Image Goal dataset (HM3D v3): instance_imagenav_hm3d_v3.zip
+
+Unpack both into the data/ directory.
+
 The folder structure should follow:
    ```bash
   .../
