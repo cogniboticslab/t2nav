@@ -18,10 +18,10 @@ This codebase is released as part of our ICRA 2026 submission:
   ```
 
 2. Clone the UniGoal baseline repository:  
-   ```bash
-   git clone https://github.com/bagh2178/UniGoal.git
-   cd UniGoal
-   ```
+```bash
+git clone https://github.com/bagh2178/UniGoal.git
+cd UniGoal
+```
 
 📂 Dataset Preparation
 The folder structure should follow:
