@@ -67,7 +67,7 @@ This repo contributes **3 files** on top of UniGoal:
 
 After preparing data and replacing files, you can run evaluation as:
 ```bash
-python main.py --goal_type ins-image --config t2nav.yaml
+python main.py --goal_type ins-image --config-file configs/t2nav.yaml
 ```
 
 ## 📜 Citation
