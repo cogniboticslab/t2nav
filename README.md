@@ -23,6 +23,8 @@ Method Pipeline:
 
 1. Install dependencies:
   ```bash
+  git clone https://github.com/cogniboticslab/t2nav.git
+  cd t2nav
   conda create -n T2Nav python=3.8
   conda activate T2Nav
   pip install -r requirements.txt
