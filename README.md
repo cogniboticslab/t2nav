@@ -7,6 +7,17 @@ This codebase is released as part of our ICRA 2026 submission:
 **T²-Nav: Algebraic-Topology Aware Temporal Graph Memory and Loop Detection for Zero-Shot Visual Navigation**.  
 
 ---
+## Demo
+
+[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Video-red)](https://www.canva.com/design/DAGzEn4kNv0/hqRy_6Gb6OfnG-_qOEwQAQ/watch?utm_content=DAGzEn4kNv0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h795034e4f2)
+
+
+## Method 
+
+Method Pipeline:
+![overview](./asset/overview.png)
+
+
 
 ## Installation  
 
