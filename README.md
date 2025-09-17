@@ -54,3 +54,10 @@ Unpack both into the directory, the folder structure should follow:
                   └── ...
                   └── 00899-58NLZxWBSpk/
   ```
+
+▶️ Running Experiments
+
+After preparing data and replacing files, you can run evaluation as:
+```bash
+python main.py --goal_type ins-image --config t2nav.yaml
+```
