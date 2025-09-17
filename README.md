@@ -23,7 +23,7 @@ git clone https://github.com/bagh2178/UniGoal.git
 cd UniGoal
 ```
 
-📂 Dataset Preparation
+## 📂 Dataset Preparation
 Download links
 
 Scene dataset (HM3D v0.2): [Download Link](https://api.matterport.com/resources/habitat/hm3d-val-habitat-v0.2.tar)
@@ -63,14 +63,14 @@ This repo contributes **3 files** on top of UniGoal:
 - **Module 2** – Loop Detection Unit (algebraic-topology inspired detection).  
 - **Agent Wrapper** – T²-Nav Agent, integrating the above with UniGoal’s navigation policy.
 
-▶️ Running Experiments
+## ▶️ Running Experiments
 
 After preparing data and replacing files, you can run evaluation as:
 ```bash
 python main.py --goal_type ins-image --config t2nav.yaml
 ```
 
-📜 Citation
+## 📜 Citation
 
 If you find this work useful, please consider citing:
 ```bibtex
