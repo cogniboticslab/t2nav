@@ -9,7 +9,7 @@ This codebase is released as part of our ICRA 2026 submission:
 ---
 ## Demo
 
-[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Video-red)](https://www.canva.com/design/DAGzEn4kNv0/hqRy_6Gb6OfnG-_qOEwQAQ/watch?utm_content=DAGzEn4kNv0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h795034e4f2)
+[![Watch the video](https://www.youtube.com/watch?v=joRCrhP5KxA)
 
 
 ## Method 
