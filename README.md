@@ -89,10 +89,8 @@ If you find this work useful, please consider citing:
 ```bibtex
 @inproceedings{t2nav_icra2026,
   title     = {T2-Nav: Algebraic-TopologyAware Temporal Graph Memory and Loop Detection for Zero-Shot Visual Navigation},
-  author    = {},
+  author    = {Quang-Anh N. D., Duc Pham Minh, Minh Anh Nguyen, Duy Tung Doan, Tuan Dang},
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2026},
-  note      = {Under Review},
-  url       = {https://github.com/cogniboticslab/t2nav}
 }
 ```
